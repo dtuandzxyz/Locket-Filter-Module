@@ -140,8 +140,8 @@ Object.assign(obj.entries, {
         feature_set: [
             {
                 title: "Hakaiz - Lockgold Filter AI ✨",
-                    body: "Nhớ Follow Kênh Ủng Hộ Mình Nhé 💛",
-                    imageURL: "https://i.postimg.cc/15BPkqNN/173376ce-0cb2-411c-80db-fe9adc931718.png"
+                    body: "Đã lên gold rồi nhé chúc bạn ngày mới vui vẻ 💛",
+                    imageURL: "https://postimg.cc/0MN2kjX8"
             }
         ],
         primary_button_title: "Xong",
