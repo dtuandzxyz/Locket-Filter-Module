@@ -133,16 +133,37 @@ else {
                 }
 
                 // Nếu server trả lỗi, tạo structure rỗng để app không crash
-                if (!aiObj.result && aiObj.error) {
-                    aiObj = {
-                        result: {
-                            status: 200,
-                            is_gold: true,
-                            is_locked: false,
-                            requires_gold: false,
-                            unlocked: true
-                        }
+                if (!aiObj.result) {
+                    aiObj.result = {
+                        status: 200,
+                        is_gold: true,
+                        is_locked: false,
+                        requires_gold: false,
+                        unlocked: true
                     };
+                }
+
+                // Đảm bảo outputUrl luôn có giá trị hợp lệ để app Locket hiển thị ảnh, không bị lỗi "Không thể áp dụng bộ lọc"
+                let fallbackUrl = "";
+                if (typeof $request !== "undefined" && $request && $request.body) {
+                    let m = $request.body.match(/https?:\/\/[^"'\s\\]+\.(jpg|jpeg|png|webp)[^"'\s\\]*/i) ||
+                            $request.body.match(/https?:\/\/firebasestorage\.googleapis\.com\/[^"'\s\\]+/i) ||
+                            $request.body.match(/https?:\/\/[^"'\s\\]*locket[^"'\s\\]*/i);
+                    if (m) fallbackUrl = m[0].replace(/\\u0026/g, "&").replace(/\\/g, "");
+                }
+                if (!aiObj.result.outputUrl && fallbackUrl) {
+                    aiObj.result.outputUrl = fallbackUrl;
+                    aiObj.result.output_url = fallbackUrl;
+                    aiObj.result.url = fallbackUrl;
+                    aiObj.result.imageUrl = fallbackUrl;
+                    aiObj.result.image_url = fallbackUrl;
+                    if (aiObj.result.data) {
+                        aiObj.result.data.outputUrl = fallbackUrl;
+                        aiObj.result.data.output_url = fallbackUrl;
+                        aiObj.result.data.url = fallbackUrl;
+                        aiObj.result.data.imageUrl = fallbackUrl;
+                        aiObj.result.data.image_url = fallbackUrl;
+                    }
                 }
             }
 

@@ -1164,7 +1164,7 @@ var customPhotoboothFilters = [
                 "prompt": "pb_strawberry",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_strawberry.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_strawberry.png",
@@ -1212,7 +1212,7 @@ var customPhotoboothFilters = [
                 "prompt": "pb_vintage",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_vintage.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_vintage.png",
@@ -1260,7 +1260,7 @@ var customPhotoboothFilters = [
                 "prompt": "pb_galaxy",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_galaxy.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_galaxy.png",
@@ -1308,7 +1308,7 @@ var customPhotoboothFilters = [
                 "prompt": "photobooth_4cut",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/photobooth_4cut.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/photobooth_4cut.png",
@@ -1356,7 +1356,7 @@ var customPhotoboothFilters = [
                 "prompt": "photobooth_cute",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/photobooth_cute.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/photobooth_cute.png",
@@ -1404,7 +1404,7 @@ var customPhotoboothFilters = [
                 "prompt": "pb_holo_4cut",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_holo_4cut.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_holo_4cut.png",
@@ -1452,7 +1452,7 @@ var customPhotoboothFilters = [
                 "prompt": "pb_scrapbook_ripped_4cut",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_scrapbook_ripped_4cut.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_scrapbook_ripped_4cut.png",
@@ -1500,7 +1500,7 @@ var customPhotoboothFilters = [
                 "prompt": "pb_ripped_paper_4cut",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_ripped_paper_4cut.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_ripped_paper_4cut.png",
@@ -1548,7 +1548,7 @@ var customPhotoboothFilters = [
                 "prompt": "pb_denim_ripped_2x2",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_denim_ripped_2x2.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_denim_ripped_2x2.png",
@@ -1596,7 +1596,7 @@ var customPhotoboothFilters = [
                 "prompt": "photoboot",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/photoboot.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/photoboot.png",
@@ -1644,7 +1644,7 @@ var customPhotoboothFilters = [
                 "prompt": "sticker_b_nh_lu_n_minh_tu",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/sticker_b_nh_lu_n_minh_tu.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/sticker_b_nh_lu_n_minh_tu.png",
@@ -1692,7 +1692,7 @@ var customPhotoboothFilters = [
                 "prompt": "cmt_locket",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/cmt_locket.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/cmt_locket.png",
@@ -1740,7 +1740,7 @@ var customPhotoboothFilters = [
                 "prompt": "khung_hello_kitty_pastel_ng_t_ng_o",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/khung_hello_kitty_pastel_ng_t_ng_o.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/khung_hello_kitty_pastel_ng_t_ng_o.png",
@@ -1788,7 +1788,7 @@ var customPhotoboothFilters = [
                 "prompt": "khung_hello_kitty_h_ng_pastel",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/khung_hello_kitty_h_ng_pastel.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/khung_hello_kitty_h_ng_pastel.png",
@@ -1836,7 +1836,7 @@ var customPhotoboothFilters = [
                 "prompt": "khung_nh_n_pastel_vi_n_ren",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/khung_nh_n_pastel_vi_n_ren.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/khung_nh_n_pastel_vi_n_ren.png",
@@ -1884,7 +1884,7 @@ var customPhotoboothFilters = [
                 "prompt": "khung_nh_hoa_pastel_vi_n_xanh_m_nh",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/khung_nh_hoa_pastel_vi_n_xanh_m_nh.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/khung_nh_hoa_pastel_vi_n_xanh_m_nh.png",
@@ -1932,7 +1932,7 @@ var customPhotoboothFilters = [
                 "prompt": "khung_nh_vu_ng_m_ng_nh_n_b_c",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/khung_nh_vu_ng_m_ng_nh_n_b_c.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/khung_nh_vu_ng_m_ng_nh_n_b_c.png",
@@ -1980,7 +1980,7 @@ var customPhotoboothFilters = [
                 "prompt": "khung_kh_ng_gian_xanh_pastel",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/khung_kh_ng_gian_xanh_pastel.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/khung_kh_ng_gian_xanh_pastel.png",
@@ -2028,7 +2028,7 @@ var customPhotoboothFilters = [
                 "prompt": "khung_vu_ng_ng_i_sao_h_ng_pastel",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/khung_vu_ng_ng_i_sao_h_ng_pastel.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/khung_vu_ng_ng_i_sao_h_ng_pastel.png",
@@ -2076,7 +2076,7 @@ var customPhotoboothFilters = [
                 "prompt": "khung_nh_pastel_vi_n_s_h_i_c_u",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/khung_nh_pastel_vi_n_s_h_i_c_u.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/khung_nh_pastel_vi_n_s_h_i_c_u.png",
@@ -2124,7 +2124,7 @@ var customPhotoboothFilters = [
                 "prompt": "khung_nh_shin_chan_vi_n_m_nh",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/khung_nh_shin_chan_vi_n_m_nh.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/khung_nh_shin_chan_vi_n_m_nh.png",
@@ -2172,7 +2172,7 @@ var customPhotoboothFilters = [
                 "prompt": "khung_anh_o_kitty_v_sao",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/khung_anh_o_kitty_v_sao.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/khung_anh_o_kitty_v_sao.png",
@@ -2220,7 +2220,7 @@ var customPhotoboothFilters = [
                 "prompt": "khung_xanh_v_tay_sao_v_ng",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/khung_xanh_v_tay_sao_v_ng.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/khung_xanh_v_tay_sao_v_ng.png",
@@ -2268,7 +2268,7 @@ var customPhotoboothFilters = [
                 "prompt": "sinh_nh_t_hello_kitty_ho_i_c",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/sinh_nh_t_hello_kitty_ho_i_c.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/sinh_nh_t_hello_kitty_ho_i_c.png",
@@ -2316,7 +2316,7 @@ var customPhotoboothFilters = [
                 "prompt": "pb_single_y2k_silver_holo",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_single_y2k_silver_holo.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_single_y2k_silver_holo.png",
@@ -2364,7 +2364,7 @@ var customPhotoboothFilters = [
                 "prompt": "pb_single_denim_ripped",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_single_denim_ripped.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_single_denim_ripped.png",
@@ -2412,7 +2412,7 @@ var customPhotoboothFilters = [
                 "prompt": "pb_single_film_nostalgia",
                 "style": "cutout",
                 "type": "normal",
-                "filterType": "cutout",
+                "filterType": "normal",
                 "overlay": true,
                 "imageUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_single_film_nostalgia.png",
                 "iconUrl": "https://locket-vip.mhiep20077.workers.dev/assets/frames/pb_single_film_nostalgia.png",
@@ -2494,7 +2494,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_looksmaxing",
@@ -2538,7 +2538,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_influencer",
@@ -2582,7 +2582,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_toothless",
@@ -2626,7 +2626,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_orange_wig",
@@ -2670,7 +2670,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_bye_brows",
@@ -2714,7 +2714,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_braces",
@@ -2758,7 +2758,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_tatted",
@@ -2802,7 +2802,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_bearded",
@@ -2846,7 +2846,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_buns",
@@ -2890,7 +2890,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_mohawk",
@@ -2934,7 +2934,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_bob",
@@ -2978,7 +2978,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_bowling_ball",
@@ -3022,7 +3022,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_bleached_hair",
@@ -3066,7 +3066,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_princess",
@@ -3110,7 +3110,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_cash",
@@ -3154,7 +3154,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_slimed",
@@ -3198,7 +3198,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_happy_birthday",
@@ -3242,7 +3242,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "disco_lights",
@@ -3286,7 +3286,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_flower_crown",
@@ -3330,7 +3330,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_cutesy",
@@ -3374,7 +3374,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_sticker_face",
@@ -3418,7 +3418,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_love_bug",
@@ -3462,7 +3462,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_cowboy",
@@ -3506,7 +3506,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_giraffe",
@@ -3550,7 +3550,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_wedding",
@@ -3594,7 +3594,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_clown",
@@ -3638,7 +3638,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_sweat_hearts",
@@ -3682,7 +3682,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_bearded_holiday",
@@ -3726,7 +3726,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_frosty",
@@ -3770,7 +3770,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_elf",
@@ -3814,7 +3814,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_santa",
@@ -3858,7 +3858,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_easter_bunny",
@@ -3902,7 +3902,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_leprechaun",
@@ -3946,7 +3946,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_easter_chick",
@@ -3990,7 +3990,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         },
         {
                 "uid": "stk_dio_lucky_face",
@@ -4034,7 +4034,7 @@ var customPhotoboothFilters = [
                 "tryButtonEnabled": true,
                 "try_button_enabled": true,
                 "type": "normal",
-                "filterType": "cutout"
+                "filterType": "normal"
         }
 ];
 
