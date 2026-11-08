@@ -141,7 +141,7 @@ Object.assign(obj.entries, {
             {
                 title: "Hakaiz - Lockgold Filter AI ✨",
                     body: "Đã lên gold rồi nhé chúc bạn ngày mới vui vẻ 💛",
-                    imageURL: "https://postimg.cc/0MN2kjX8/image.png"
+                    imageURL: "https://i.postimg.cc/28KDzs8v/1794143383679-356538179217509667-6842916276097553191-52739d55250146b74b0b2ac3e1019b15.jpg/image.png"
             }
         ],
         primary_button_title: "Xong",
