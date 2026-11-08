@@ -1,12 +1,4 @@
-﻿ Live Content
-
-Description: Fetched live
-
-Source: https://raw.githubusercontent.com/NightmarketServer/Module-Shadowrocket-NMS/refs/heads/main/Locket%20Filter%20AI/js/locket_pb_req.js?v=20261108_10
-
----
-
-// ========= Locket Photobooth 4-Shot Engine & AI Filter Modifier ========= //
+﻿// ========= Locket Photobooth 4-Shot Engine & AI Filter Modifier ========= //
 // Phân Phối: Hakaiz
 // Tác giả: dinhtuan07
 // Tính năng:
@@ -362,4 +354,3 @@ Source: https://raw.githubusercontent.com/NightmarketServer/Module-Shadowrocket-
 
     return $done({});
 })();
-

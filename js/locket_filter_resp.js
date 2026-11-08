@@ -1,12 +1,4 @@
-﻿ Live Content
-
-Description: Fetched live
-
-Source: https://raw.githubusercontent.com/NightmarketServer/Module-Shadowrocket-NMS/refs/heads/main/Locket%20Filter%20AI/js/locket_filter_resp.js?v=20261108_10
-
----
-
-/***********************************************
+﻿/***********************************************
 > Locket AI Filter Modifier, Unblur & Community Gold VIP
 > Phân Phối: Hakaiz
 > Tác giả: dinhtuan07
@@ -399,4 +391,3 @@ else {
         body: body
     });
 }
-

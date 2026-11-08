@@ -1,12 +1,4 @@
-﻿ Live Content
-
-Description: Fetched live
-
-Source: https://raw.githubusercontent.com/NightmarketServer/Module-Shadowrocket-NMS/refs/heads/main/Locket%20Filter%20AI/js/locketfix.js?v=20261108_10
-
----
-
-// ============================================================
+﻿// ============================================================
 // Locket Remote Config Rewrite
 // Endpoint: firebaseremoteconfig.googleapis.com
 // Dùng cho: Loon / Quantumult X / Surge / Shadowrocket
@@ -148,7 +140,7 @@ Object.assign(obj.entries, {
         feature_set: [
             {
                 title: "Hakaiz - Lockgold Filter AI ✨",
-                    body: "Cảm ơn bạn đã sử dụng Lockgold Filter AI 💛",
+                    body: "Nhớ Follow Kênh Ủng Hộ Mình Nhé 💛",
                     imageURL: "https://i.postimg.cc/15BPkqNN/173376ce-0cb2-411c-80db-fe9adc931718.png"
             }
         ],
@@ -8360,4 +8352,3 @@ hamVaForceOverride(obj.entries);
 $done({
     body: JSON.stringify(obj)
 });
-
